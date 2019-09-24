@@ -1,2 +1,4 @@
 # hello-word
-Just another reposority
+
+Hello!
+My name is Jennifer :)
